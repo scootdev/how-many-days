@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import './style.css';
 import DatePicker from '../date-picker';
+import './style.css';
 
 class Container extends Component {
 

@@ -17,7 +17,7 @@ class HowMany extends Component {
 
     render() {
         return (
-            <h1>{this.generateDate()} is {this.howManyDays(this.props.date)} days away</h1>
+            <h1>{this.generateDate()} is {this.howManyDays(this.props.date)} days from now</h1>
         );
     }
 }
